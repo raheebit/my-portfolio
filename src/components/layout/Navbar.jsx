@@ -44,7 +44,7 @@ export default function Navbar() {
         <div className="flex items-center justify-between h-16">
           <div className="flex-shrink-0">
             <a href="#" className="text-2xl font-bold bg-clip-text text-transparent bg-gradient-to-r from-blue-500 to-teal-400">
-              Rahib.dev
+              Raheeb.dev
             </a>
           </div>
 

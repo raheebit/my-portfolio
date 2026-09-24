@@ -11,7 +11,7 @@ export default function Footer() {
         <div className="flex flex-col md:flex-row justify-between items-center gap-6">
           <div className="text-center md:text-start">
             <h3 className="text-2xl font-bold bg-clip-text text-transparent bg-gradient-to-r from-blue-500 to-teal-400">
-              Rahib.dev
+              Raheeb.dev
             </h3>
             <p className="text-muted-foreground mt-2 max-w-sm">
               {t("hero.tagline")}
