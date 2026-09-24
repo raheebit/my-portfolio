@@ -1,4 +1,4 @@
-# Rahib Al-Yousefi - Developer Portfolio
+# Raheeb Al-Yousefi - Developer Portfolio
 
 A modern, professional developer portfolio built with React, Vite, Tailwind CSS, and Framer Motion.
 

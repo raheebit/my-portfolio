@@ -28,7 +28,7 @@ export default function Hero() {
               {t("hero.greeting")}
             </h2>
             <h1 className="text-5xl md:text-7xl font-bold font-sans">
-              <span className="block mb-2 text-foreground">Rahib</span>
+              <span className="block mb-2 text-foreground">Raheeb</span>
               <span className="bg-clip-text text-transparent bg-gradient-to-r from-blue-500 to-teal-400">
                 Al-Yousefi
               </span>
@@ -77,7 +77,7 @@ export default function Hero() {
               <div className="w-full h-full rounded-full overflow-hidden bg-background border-4 border-background z-10 flex items-center justify-center text-muted-foreground">
                 <img
                   src="/profile.jpg"
-                  alt="Rahib Al-Yousefi"
+                  alt="Raheeb Al-Yousefi"
                   className="w-full h-full object-cover rounded-full bg-background z-10 scale-[1.15] object-top"
                 />
 
